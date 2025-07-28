@@ -72,6 +72,6 @@ $days: (
 .calendar__day:hover {
   cursor: pointer;
   background-color: #ffbfcb;
-  transform: (0, -20px);
+  transform: translateY(-20px);
   transition-duration: 0.5s;
 }
